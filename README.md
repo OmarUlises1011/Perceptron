@@ -1,8 +1,8 @@
-# Reporte del Código: Perceptrón para funciones lógicas AND y OR
+# Reporte del Código: Perceptrón
 
 ## Descripción General
 
-Este programa implementa un perceptrón simple en Java para aprender a clasificar las funciones lógicas **AND** y **OR** con dos entradas binarias. El perceptrón es un modelo de inteligencia artificial basado en una neurona artificial que ajusta sus pesos para predecir salidas binarias a partir de entradas binarias.
+Este programa implementa un perceptrón en Java para aprender a clasificar las funciones lógicas **AND** y **OR** con dos entradas binarias. El perceptrón es un modelo de inteligencia artificial basado en una neurona artificial que ajusta sus pesos para predecir salidas binarias a partir de entradas binarias.
 
 ---
 
@@ -61,5 +61,5 @@ Este programa implementa un perceptrón simple en Java para aprender a clasifica
 
 ## Conclusión
 
-El código muestra la capacidad básica del perceptrón para aprender funciones lógicas linealmente separables. Es una implementación sencilla y didáctica para entender fundamentos de aprendizaje supervisado y redes neuronales.
+El código muestra la capacidad básica del perceptrón para aprender funciones lógicas linealmente separables. Es una implementación  didáctica para entender fundamentos de aprendizaje supervisado y redes neuronales.
 
